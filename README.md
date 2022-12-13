@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suwetha</h1>
 <h3 align="center">I'm Front-End Job seeker from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwetha" alt="suwetha" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suwetha&label=Profile%20views&color=0e75b6&style=flat" alt="suwetha" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
