@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suwethadhashnamoorthy/Portfolio](https://github.com/suwethadhashnamoorthy/Portfolio)
 
-- 💬 Ask me about **JavaScript, React.js, HTML, CSS, Bootstrap, MongoDB, MySQL, Node.js, Express.js and Leaning DSA and AWS**
+- 💬 Ask me about **JavaScript, React.js, HTML, CSS, Bootstrap, MongoDB, MySQL, Node.js, Express.js, and Leaning DSA and AWS**
 
 - 📫 How to reach me **suwedhashna23@gmail.com**
 
