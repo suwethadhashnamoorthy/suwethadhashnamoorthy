@@ -1,4 +1,3 @@
-<style="background-color:powderblue;">
 <h1 align="center">Hi 👋, I'm Suwetha</h1> 
 <h3 align="center">I'm Job seeker from India</h3>
 
